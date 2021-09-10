@@ -4,7 +4,7 @@
   <a href="https://github.com/lucasshinozaki">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasshinozaki&show_icons=true&theme=dark&icon_color=ffffff"/>
   </a>
-  <a href="https://github.com/viniciuskuwakino">
+  <a href="https://github.com/lucasshinozaki">
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasshinozaki&langs_count=7&layout=compact&theme=dark&icon_color=ffffff"/>
   </a>
 </div>
