@@ -44,6 +44,10 @@ Sou um desenvolvedor de software de 25 anos, apaixonado por tecnologia e inovaç
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasshinozaki&show_icons=true&theme=dark" alt="Estatísticas do GitHub" width="60%">
 </p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasshinozaki}/count.svg" /></p> 
+<br></div>
 
 ## 💬 Vamos Conectar!
 
